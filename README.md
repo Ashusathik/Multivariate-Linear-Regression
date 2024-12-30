@@ -1,6 +1,6 @@
 # Implementation of Multivariate Linear Regression
 ## Aim
-To write a python program to implement multivariate linear regression and predict the output.
+To implement univariate Linear Regression to fit a straight line using least squares.
 ## Equipment’s required:
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
@@ -9,7 +9,7 @@ To write a python program to implement multivariate linear regression and predic
 import pandas as pd
 <br>
 
-### Step2
+# ## Step2
 Read the csv file
 <br>
 
@@ -42,9 +42,9 @@ print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 ```
 ## Output:
 
-### Insert your output
+![alt text](<Screenshot 2024-12-30 203808.png>)
 
-![output](image.png)
+![alt text](<Screenshot 2024-12-30 203831.png>)
 <br>
 
 ## Result
